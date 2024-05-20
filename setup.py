@@ -43,11 +43,13 @@ setup(
     long_description=long_description,
 
     # The project's main homepage.
-    url='https://github.com/taborlab/FlowCal',
+    url='https://github.com/MHunt-tools/FlowCal',
 
     # Author details
     author='Sebastian Castillo-Hair',
     author_email='castillohair@gmail.com',
+    author2='Maxwell HUnt',
+    author2_email='maxwellhunt1@mac.com',
 
     # Choose your license
     license='MIT',
@@ -73,6 +75,9 @@ setup(
         'Programming Language :: Python :: 3.6',
         'Programming Language :: Python :: 3.7',
         'Programming Language :: Python :: 3.8',
+        'Programming Language :: Python :: 3.9',
+        'Programming Language :: Python :: 3.10',
+        'Programming Language :: Python :: 3.11',
     ],
 
     # What does your project relate to?
